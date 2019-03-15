@@ -50,7 +50,7 @@ The Gene Ontology Consortium. Nat Genet. 2000;25(1):25-9.
 
 ## ISSUES AND REQUESTS
 
-If you experience any issues or would like to see support for an additional feature implemented in Gene_Ontology_2nd_Level, please file a request in the GitHub issue tracker or email it to the developer. Feel free to contact the developer with any further questions regarding this software. You can reach him at mail to: oseias.rf.junior@gmail.com.
+If you experience any issues or would like to see support for an additional feature implemented in Gene_Ontology_2nd_Level, please file a request in the GitHub issue tracker or email it to the developer. Feel free to contact the developers with any further questions regarding this software. You can reach them at the e-mails: gucedac@ime.usp.br or oseias.rf.junior@gmail.com.
 
 ---
 
