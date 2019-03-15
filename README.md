@@ -40,7 +40,7 @@ Gene_Ontology_2nd_Level will output a comma-separated values table for Excel (a 
 
 If you find this software useful in your research, please cite the following references according to the programs you use:
 
-- Dourado, Manuella Nóbrega; Pierry, Paulo M.; Feitosa-Junior, Oseias Rodrigues; Uceda, G.; Zaini, Paulo A.; Dandekar, Abhaya M.; da Silva, Aline M.; Araújo, Welington Luiz. 
+- Dourado, Manuella Nóbrega; Pierry, Paulo M.; Feitosa-Junior, Oseias Rodrigues; Uceda, Guillermo; Zaini, Paulo A.; Dandekar, Abhaya M.; da Silva, Aline M.; Araújo, Welington Luiz. 
 Methylobacterium mesophilicum endophyte inhibits Xylella fastidiosa pathogen: physiological and molecular focus. (draft).
 
 - Ashburner M, Ball CA, Blake JA, et al. Gene ontology: tool for the unification of biology. 
